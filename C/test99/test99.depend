@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1454175552 source:c:\users\internet\desktop\prog\test99\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+
+1454190351 source:c:\users\internet\desktop\prog\c\test99\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
